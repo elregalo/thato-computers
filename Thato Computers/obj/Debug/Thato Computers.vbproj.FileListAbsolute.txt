@@ -1,0 +1,10 @@
+E:\Thato Computers\Thato Computers\bin\Debug\Thato Computers.exe.config
+E:\Thato Computers\Thato Computers\bin\Debug\Thato Computers.exe
+E:\Thato Computers\Thato Computers\bin\Debug\Thato Computers.pdb
+E:\Thato Computers\Thato Computers\bin\Debug\Thato Computers.xml
+E:\Thato Computers\Thato Computers\obj\Debug\Thato_Computers.Form1.resources
+E:\Thato Computers\Thato Computers\obj\Debug\Thato_Computers.Resources.resources
+E:\Thato Computers\Thato Computers\obj\Debug\Thato Computers.vbproj.GenerateResource.Cache
+E:\Thato Computers\Thato Computers\obj\Debug\Thato Computers.exe
+E:\Thato Computers\Thato Computers\obj\Debug\Thato Computers.xml
+E:\Thato Computers\Thato Computers\obj\Debug\Thato Computers.pdb
